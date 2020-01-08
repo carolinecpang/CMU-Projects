@@ -1,0 +1,4 @@
+My term project is a game called Bombardiers.
+The game consists of two players whos objective is to destroy the other player's forcefield by launching missiles at the opponent across a gravity field determined by a series of planets. The player must strategically adjust the trajectory of the missile by altering the strength and angle that it is fired at in order to maneuver the gravity field and hit the opponent on the other side. The game is over when the health of one player reaches zero. There are three different game modes: single player, multiplayer, and multiplayer with bonus planet features. 
+To run the project, open the file "Bombardiers.py" in a python editor. Ensure that the file "Bombardiers.py" is in the same folder as the file "cmu_112_graphics.py" which can be downloaded from: https://www.cs.cmu.edu/~112/notes/notes-animations-part1.html
+The project includes the libraries tkinter and PIL.
